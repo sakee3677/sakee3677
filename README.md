@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 您好，我是 [Tesssq]
+**一位熱愛遊戲開發的 Unity 工程師**
 
-<!--
-**sakee3677/sakee3677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我目前專注於 C# 程式設計與 Unity 遊戲製作，除了遊戲邏輯外，也熱衷於鑽研視覺特效與渲染技術。
 
-Here are some ideas to get you started:
+* **Game Engine:** Unity (2D/3D)
+* **Language:** C#
+* **Visual Effects:** VFX Graph, Shader Graph
+* **Tools:** Git, Visual Studio
+* **Interests:** 遊戲系統設計, UI 邏輯, 渲染技術 (Rendering)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📬 聯絡方式 (Connect with me)
+* 📧 Email: [bike920725@gmail.com]
+* 💼 LinkedIn: [你的 LinkedIn 網址 (如果有的話)]
+* 🎮 Itch.io: [你的遊戲試玩頁面 (如果有的話)]
+
+---
+*感謝您的來訪，歡迎查看下方我的專案作品！*
