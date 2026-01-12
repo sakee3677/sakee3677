@@ -11,8 +11,5 @@
 
 #### 📬 聯絡方式 (Connect with me)
 * 📧 Email: [bike920725@gmail.com]
-* 💼 LinkedIn: [你的 LinkedIn 網址 (如果有的話)]
-* 🎮 Itch.io: [你的遊戲試玩頁面 (如果有的話)]
-
 ---
 *感謝您的來訪，歡迎查看下方我的專案作品！*
