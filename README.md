@@ -8,7 +8,7 @@ Beyond core game logic, I am also deeply dedicated to exploring Visual Effects a
 * **Game Engine:** Unity (2D/3D)
 * **Language:** C#
 * **Visual Effects:** VFX Graph, Shader Graph
-* **Interests:** Game System Design, Rendering Technology
+
 
 #### 📬 Connect with me
 * 📧 Email: [bike920725@gmail.com]
@@ -25,4 +25,4 @@ Beyond core game logic, I am also deeply dedicated to exploring Visual Effects a
 * **遊戲引擎:** Unity (2D/3D)
 * **程式語言:** C#
 * **視覺特效:** VFX Graph, Shader Graph
-* **專業領域:** 遊戲系統設計, UI 邏輯, 渲染技術 (Rendering)
+
