@@ -1,4 +1,4 @@
-###  Hi there, I'm [Tesssq]
+###  Hi there, I'm Tesssq
 **A Passionate Unity Game Engineer**
 
 I specialize in C# programming and Unity game development, with experience building various small-scale projects during my university studies.
@@ -15,7 +15,7 @@ Beyond core game logic, I am also deeply dedicated to exploring Visual Effects a
 
 ---
 
-###  您好，我是 [Tesssq]
+###  您好，我是 Tesssq
 **一位熱愛遊戲開發的 Unity 工程師**
 
 我目前專注於 C# 程式設計與 Unity 遊戲製作，在大學時期擁有開發多個小型專案的實作經驗。
